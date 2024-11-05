@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/EVANJALIN-TAMILARASI/website/static/css/main.2183fd68.css",
+    "main.js": "/EVANJALIN-TAMILARASI/website/static/js/main.79f62105.js",
+    "static/js/453.093e32a3.chunk.js": "/EVANJALIN-TAMILARASI/website/static/js/453.093e32a3.chunk.js",
+    "static/media/pizzaLeft.jpg": "/EVANJALIN-TAMILARASI/website/static/media/pizzaLeft.24b07891fef1c8dae848.jpg",
+    "static/media/vegan.jpg": "/EVANJALIN-TAMILARASI/website/static/media/vegan.52cbfe9e6f8d75e18f8b.jpg",
+    "static/media/pizza.jpeg": "/EVANJALIN-TAMILARASI/website/static/media/pizza.21a1098fa87e28d80f37.jpeg",
+    "static/media/multiplePizzas.jpeg": "/EVANJALIN-TAMILARASI/website/static/media/multiplePizzas.490709e2113d96ca24a1.jpeg",
+    "static/media/hawaiian.webp": "/EVANJALIN-TAMILARASI/website/static/media/hawaiian.71419774177134ff29cb.webp",
+    "static/media/buffalo.png": "/EVANJALIN-TAMILARASI/website/static/media/buffalo.cc52d4f062f2624c48d4.png",
+    "static/media/pizzaLogo.png": "/EVANJALIN-TAMILARASI/website/static/media/pizzaLogo.fcdc67e6b331cba63735.png",
+    "static/media/supreme.webp": "/EVANJALIN-TAMILARASI/website/static/media/supreme.77138bcc61b2e810206b.webp",
+    "static/media/expensive.jpg": "/EVANJALIN-TAMILARASI/website/static/media/expensive.6449ceefce083d18dfef.jpg",
+    "static/media/BBQchicken.png": "/EVANJALIN-TAMILARASI/website/static/media/BBQchicken.b65d454383adeb420082.png",
+    "static/media/pepperoni.jpg": "/EVANJALIN-TAMILARASI/website/static/media/pepperoni.d173e5db8dacdf1324ed.jpg",
+    "static/media/pineapple.jpg": "/EVANJALIN-TAMILARASI/website/static/media/pineapple.a01ab9be389f0e6bd6ec.jpg",
+    "static/media/veggie.webp": "/EVANJALIN-TAMILARASI/website/static/media/veggie.bcd3d738a9d7828b00da.webp",
+    "static/media/cheese.png": "/EVANJALIN-TAMILARASI/website/static/media/cheese.df60a9273bfcf0f18d96.png",
+    "static/media/meat.webp": "/EVANJALIN-TAMILARASI/website/static/media/meat.95fddf0506c1f4fa1a37.webp",
+    "static/media/works.webp": "/EVANJALIN-TAMILARASI/website/static/media/works.9ec9f75ec664e95a5839.webp",
+    "static/media/margherita.jpg": "/EVANJALIN-TAMILARASI/website/static/media/margherita.683bc9bb07f9ff0d82df.jpg",
+    "static/media/pedrotechspecial.jpg": "/EVANJALIN-TAMILARASI/website/static/media/pedrotechspecial.425951cb0e484775fd4c.jpg",
+    "index.html": "/EVANJALIN-TAMILARASI/website/index.html",
+    "main.2183fd68.css.map": "/EVANJALIN-TAMILARASI/website/static/css/main.2183fd68.css.map",
+    "main.79f62105.js.map": "/EVANJALIN-TAMILARASI/website/static/js/main.79f62105.js.map",
+    "453.093e32a3.chunk.js.map": "/EVANJALIN-TAMILARASI/website/static/js/453.093e32a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2183fd68.css",
+    "static/js/main.79f62105.js"
+  ]
+}
